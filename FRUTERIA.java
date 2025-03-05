@@ -9,6 +9,10 @@ import java.util.Scanner;
 //5.01 - 10 15%
 //10.01 en adelante 20%
 //Determinar cuánto pagara una persona que compre manzanas es esa frutería.
+
+/* Andres Felipe Peña Lopez
+    u20242228235*/
+
 public class FRUTERIA {
 public static void main(String[] args) {
     
