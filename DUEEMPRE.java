@@ -12,6 +12,9 @@ package Pr1.Po2;
 //Desplegar que cantidades se destinaran para la compra de insumos e incentivos al personal y,
 //en caso de que fuera necesario, a cuánto ascendería la cantidad que se pediría al banco.
 
+/* Andres Felipe Peña Lopez
+    u20242228235*/
+
 import java.util.Scanner;
 
 public class DUEEMPRE {
