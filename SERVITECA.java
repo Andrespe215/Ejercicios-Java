@@ -6,6 +6,9 @@ package Pr1.Po2;
 //• Obtener la cantidad de dinero que una persona tiene que pagar por cada una de las llantas
 //que compra y la que tiene que pagar por el total de la compra.
 
+/* Andres Felipe Peña Lopez
+    u20242228235*/
+
 import java.util.Scanner;
 
 public class SERVITECA {
