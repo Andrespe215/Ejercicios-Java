@@ -5,6 +5,10 @@ package HELADO;
 //fresa ($2000) y crema ($3000). El sistema debe imprimir la cantidad de paletas vendidas de cada
 //sabor, el valor vendido y la venta total. Considere que una factura puede tener varias paletas de
 //diferentes sabores."
+
+/* Andres Felipe Peña Lopez
+    u20242228235*/
+
 import java.util.Scanner;
    public class HELADO { 
         public static void main(String[] args) {
