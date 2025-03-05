@@ -6,6 +6,10 @@ import java.util.Scanner;
 //de algún aparato, si esta cuesta U$500 o más. Además, independientemente de esto, ofrece un
 //5% de descuento si la marca es “NOSY”. Determinar cuánto pagara, con IVA incluido, un cliente
 //cualquiera por la compra de su aparato. El IVA es del 19%.
+
+/* Andres Felipe Peña Lopez
+    u20242228235*/
+
 public class REPMUSIC {
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in); 
